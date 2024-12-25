@@ -3,4 +3,7 @@
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/haex4/custom keyboard/ai03 libraries/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/haex4/custom keyboard/ai03 libraries/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "C:/Users/haex4/custom keyboard/ai03 libraries/Type-C.pretty-master/Type-C.lib")(options "")(descr ""))
+  (lib (name "marbastlib-gateron_lp")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-gateron_lp.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-various.kicad_sym")(options "")(descr ""))
 )
