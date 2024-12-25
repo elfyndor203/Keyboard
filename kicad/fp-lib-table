@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MX_Only")(type "KiCad")(uri "C:/Users/haex4/custom keyboard/ai03 libraries/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
+)
