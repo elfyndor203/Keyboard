@@ -12,7 +12,6 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
-			(justify mirror)
 		)
 	)
 	(property "Value" "1.75U"
@@ -286,7 +285,7 @@
 		(uuid "cb6664ac-aab8-4623-8af5-d4b4470c7a3e")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 3.048 0)
+		(at 0 4.5 0)
 		(layer "B.SilkS")
 		(uuid "ef549f23-f6ac-40b4-8e48-05f830e13a0e")
 		(effects
