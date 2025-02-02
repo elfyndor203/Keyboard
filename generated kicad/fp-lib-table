@@ -8,4 +8,5 @@
   (lib (name "marbastlib-xp-gateron_lp")(type "KiCad")(uri "C:/Users/haex4/custom keyboard/marbastlib/footprints/marbastlib-xp-gateron_lp.pretty")(options "")(descr ""))
   (lib (name "marbastlib-xp-mx")(type "KiCad")(uri "C:/Users/haex4/custom keyboard/marbastlib/footprints/marbastlib-xp-mx.pretty")(options "")(descr ""))
   (lib (name "my library")(type "KiCad")(uri "${KIPRJMOD}/my library.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "C:/Users/haex4/Downloads/kiswitch-main/kiswitch-main/library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
 )
