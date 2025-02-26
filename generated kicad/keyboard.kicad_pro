@@ -429,7 +429,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "New_Library"
+    ]
   },
   "meta": {
     "filename": "keyboard.kicad_pro",
@@ -3000,6 +3002,10 @@
     [
       "4518914f-850f-4cd8-86f4-2792a0d788ad",
       "Root"
+    ],
+    [
+      "6bdc93d7-a89c-40b5-80d5-6755c3ff8de5",
+      "12x8"
     ]
   ],
   "text_variables": {}
