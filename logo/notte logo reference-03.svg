@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1086.0213 1086.0213">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <g id="moon">
+    <circle class="cls-2" cx="543.0106" cy="543.0106" r="150"/>
+  </g>
+  <g id="dimensions" class="cls-3">
+    <circle class="cls-1" cx="543.0106" cy="543.0106" r="150"/>
+    <circle class="cls-1" cx="365.7739" cy="840.3229" r="250"/>
+    <circle class="cls-1" cx="382.9088" cy="328.6837" r="150"/>
+    <circle class="cls-1" cx="255.7798" cy="482.1653" r="50"/>
+  </g>
+</svg>

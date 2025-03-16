@@ -2866,7 +2866,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "pcb exports/plots",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "keyboard corners.step",
